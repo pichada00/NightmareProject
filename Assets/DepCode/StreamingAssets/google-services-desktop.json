@@ -1,0 +1,47 @@
+{
+  "project_info": {    
+    "project_number": "287498802942",
+    "firebase_url": "https://nightmare233-d4f33-default-rtdb.firebaseio.com.firebasedatabase.app",
+    "project_id": "nightmare233-d4f33",
+    "storage_bucket": "nightmare233-d4f33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287498802942:android:39693562c42170ec8bf7af",
+        "android_client_info": {
+          "package_name": "com.CatCompany.NightMare.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287498802942-d8khd3dbrmgtgcp9kvddc3hrrt7qtgm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv39RWBqVuq0IUgGsS3Ez3zBKceSe_8aM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287498802942-d8khd3dbrmgtgcp9kvddc3hrrt7qtgm1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "287498802942-hlqe7hmlk45mbkl0808sipgfkhdj212f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.CatCompany.NightMare.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
